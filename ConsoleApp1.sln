@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EF167796-E2B8-4608-97D6-C3714FF586BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopClasees", "WorkshopClasees\WorkshopClasees.csproj", "{EE81B1A1-9043-443E-8D24-90D318A1D4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{01DFBD9E-CCF0-4D24-9AD4-79035B745373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF167796-E2B8-4608-97D6-C3714FF586BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF167796-E2B8-4608-97D6-C3714FF586BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF167796-E2B8-4608-97D6-C3714FF586BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF167796-E2B8-4608-97D6-C3714FF586BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE81B1A1-9043-443E-8D24-90D318A1D4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE81B1A1-9043-443E-8D24-90D318A1D4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE81B1A1-9043-443E-8D24-90D318A1D4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE81B1A1-9043-443E-8D24-90D318A1D4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DFBD9E-CCF0-4D24-9AD4-79035B745373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DFBD9E-CCF0-4D24-9AD4-79035B745373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DFBD9E-CCF0-4D24-9AD4-79035B745373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DFBD9E-CCF0-4D24-9AD4-79035B745373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6647835E-06B6-48A8-B110-EE8FCFB0044F}
+	EndGlobalSection
+EndGlobal

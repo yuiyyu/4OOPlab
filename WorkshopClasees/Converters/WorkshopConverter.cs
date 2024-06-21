@@ -16,6 +16,10 @@ namespace WorkshopClasees.Converters
                 WorkshopNumber = workshop.WorkshopNumber,
                 Lumbers = new List<LumberDTO>()
             };
+            foreach(var lumber in workshop.Lumbers)
+            {
+                dto.Lumbers.Add(LumberConverter.ToDTO(lumber));
+            }
             return dto;
         }
 
